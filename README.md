@@ -29,7 +29,7 @@ improvements in the services.
 portal after login and filter the booking according to cabs or driver etc.
 
 ## E-R Diagram
-<img src = "images/ER.png" width=750 />
+<img src = "Cab-Booking-System/images/ER.png" width=750 />
 
 ## Relational Schema
-<img src = "images/Relational_Schema.png" width=750 />
+<img src = "Cab-Booking-System/images/Relational_Schema.png" width=750 />
